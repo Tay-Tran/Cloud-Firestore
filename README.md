@@ -9,7 +9,7 @@ Project này chủ yếu là để biết cách:
 
 3. Đưa Website lên Hosting của Firebase. 
 
-Cloud Firestore cung cấp đầy đủ các API thao tác với dữ liệu: CRUD (Create,Read, Update, Delete), lắng nghe sự thay đổi của dữ liệu, các câu lệnh để lọc dữ liệu. 
+Cloud Firestore cung cấp đầy đủ các API thao tác với dữ liệu: CRUD (Create, Read, Update, Delete), lắng nghe sự thay đổi của dữ liệu, các câu lệnh để lọc dữ liệu. 
 
 Link tham khảo https://firebase.google.com/docs/firestore?authuser=0
 
