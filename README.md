@@ -1,5 +1,5 @@
 # Cloud-Firestore
-Web viết bằng javascript, sử dụng database là Cloud Firestore, sử dụng hosting của Firebase
+Web viết bằng javascript, sử dụng database là Cloud Firestore, sử dụng hosting của Firebase.
 Project này chủ yếu là để biết cách sử dụng các API thao tác với dữ liệu: đọc, thêm, xóa, lắng nghe sự thay đổi của dữ liệu, do Cloud Firestore cung cấp. Cloud Firestore cung cấp đầy đủ các API thao tác với dữ liệu: CRUD (Create,Read, Update, Delete), lắng nghe sự thay đổi của dữ liệu, các câu lệnh để lọc dữ liệu.
 # Đã up lên hosting của firebase
 https://ninja-firestore-tut-20a7b.web.app/
