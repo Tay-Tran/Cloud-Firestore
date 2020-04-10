@@ -1,5 +1,5 @@
 # Cloud-Firestore
-Website viết bằng javascript, sử dụng database là Cloud Firestore, sử dụng hosting của Firebase.
+Website viết bằng javascript thuần(không sử dụng Node JS) nhúng vào HTML, sử dụng database là Cloud Firestore, sử dụng hosting của Firebase.
 
 Project này chủ yếu là để biết cách:
 
