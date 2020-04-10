@@ -25,3 +25,5 @@ https://www.youtube.com/watch?v=kmTECF0JZyQ
 Hiện tại Firebase cung cấp 2 loại Database: Realtime Database, Cloud-Firestore(lúc trước là bản Beta). 
 
 Cloud-Firestore phù hợp hơn, cho các ứng dụng ở dạng cung cấp dịch vụ, cho các ứng dụng khác hoạt động. vd: Web Server, cung cấp dịch vụ Website cho người dùng.
+
+<img src="https://github.com/Tay-Tran/Cloud-Firestore/blob/master/Web%20Server%20s%E1%BB%AD%20d%E1%BB%A5ng%20Cloud%20Firestore.png" width="100%"></img> 
